@@ -27,8 +27,18 @@
 
 ## Contact
 
-<!-- TODO: Include icons and links to your RELEVANT, PROFESSIONAL 'DEV-ORIENTED' social media. LinkedIn and dev.to are minimum. -->
+https://www.linkedin.com/in/dwayne-miller-fjak/
 
 ## Acknowledgements
 
-<!-- TODO: List any blog posts, tutorials or plugins that you may have used to complete the project. Only list those that had a significant impact. Obviously, we all 'Google' stuff while working on our things, but maybe something in particular stood out as a 'major contributor' to your skill set for this project. -->
+Weight of Evidence and Information Value Explained
+
+[1] Baesens, B., Roesch, D., & Scheule, H. (2016). Credit risk analytics: Measurement techniques, applications, and examples in SAS. John Wiley & Sons.
+
+[2] Siddiqi, N. (2012). Credit risk scorecards: developing and implementing intelligent credit scoring. John Wiley & Sons.
+
+[3] Thomas, L., Edelman, D. & Crook, J. (2002). Credit Scoring and its Applications.
+
+[4] Mays, E. (2001). Handbook of Credit Scoring. Glanelake Publishing Company.
+
+[5] Mironchyk, P. & Tchistiakov, V. (2017). Monotone optimal binning algorithm for credit risk modeling.
